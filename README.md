@@ -1,5 +1,5 @@
 ### Hi there 👋
-Electronics and telecommunications technician, interested in computer networks.
+Graduated in Design and a Technician in Electronics, I have a unique blend of creative and technical skills. I am proficient in software such as Photoshop, Illustrator, and Figma, along with solid programming knowledge in C and Front-end development using JavaScript, HTML, CSS, WordPress, and Webflow.
 
 ![blonde kid thumbs up gif](https://i.imgur.com/Y7Ugnee.gif)
 
